@@ -1,0 +1,27 @@
+﻿body
+{
+    background-color:#000000;
+}
+
+#switch{
+    margin-top:15%;
+}
+
+
+.switch-shape{
+    width:30px;
+    height:50px;
+    padding:30px;
+    font-size:48px;
+    font-weight:600;
+    color:#000000;
+    background-color:mintcream;
+    margin-bottom:1px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:3px;
+    border:1px solid #969595;    
+}
+
+
+
